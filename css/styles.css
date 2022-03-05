@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+.bottom-container{
+  background-color: #FFBBBB;
+  padding-top: 20px;
+}
+.bottom-name{
+  margin-bottom: 0;
+  padding-bottom: 20px;
+}
+.contact-msg{
+  width: 40%;
+  margin: 30px auto 30px;
+}
+.contactMe-btn {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Trebuchet MS;
+   font-size: 15px;
+   font-weight: 600;
+   padding: 20px;
+   /* box-shadow-horizontal: 1;
+   box-shadow-vertical: 1;
+   box-shadow-blur: 20;
+   box-shadow-spread: 0; */
+   background-color: #FFBBBB;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.top-container{
+  background-color: #F0FFC2;
+  position:relative;
+  padding-top: 100px;
+}
+h1{
+  font-size: 3.5rem;
+  color: #FFBBBB;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+h2{
+  font-size: 2rem;
+  font-weight: normal;
+  color: #FFBBBB;
+  font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+  color: #F6A9A9;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  width: 10%;
+  border-style: dashed none none;
+  border-width: medium;
+  border-color: #EAF6F6;
+}
+.fa-brands{
+  padding: 5px;
+}
+.middle-container{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/137/137088.png);
+  background-repeat:space;
+}
+.top-container-top-img{
+  position: absolute;
+  top: 40px;
+  right: 200px;
+}
+.top-container-bottom-img{
+  position: absolute;
+  bottom: 300px;
+  left: 200px;
+}
+p{
+  font-family: 'Architects Daughter', cursive;
+  line-height: 2;
+  /* padding: 1rem; */
+}
+.profile{
+  margin: 70px auto 0;
+  width: 50%;
+}
+
+.programming-img {
+  width: 28%;
+  float: right;
+  margin-left: 30px;
+}
+.skills{
+  margin-bottom: 80px;
+}
+.skill-row{
+  margin: 70px auto 0;
+  width: 50%;
+  text-align: left;
+}
+.user-img{
+  width: 35%;
+}
+.webDev-img{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
